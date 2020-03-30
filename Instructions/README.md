@@ -16,6 +16,8 @@ While your data companions rushed off to jobs in finance and government, you rem
 
 As their Chief Data Analyst, you've been given access to the complete data from their most recent animal study. In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. Your objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
+## Prerequisites
 
+You will need Panda installed. 
 
 
