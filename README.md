@@ -1,14 +1,14 @@
-# matplot_HW
+# Matplot_HW
 In this challenge, data from a drug-based, anti-cancer pharmaceutical company have been analyzed. The company is screening for potential treatments to squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. The objective is to analyze the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
-To analyse the data, the following plots were generated using matplotlib:
+## From the data analysis following plots were generated using matplotlib:
 
 A scatter plot that shows how the tumor volume changes over time for each treatment.
 A scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
 A scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
 A bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 
-Observations from the study:
+## Observations from the study:
 
 Of the 5 drugs tested, Capomulin was the best candidate with a significant drop in the tumor volume. Its effect was evident from the very first day with a gradual decrease in tumor volume. Administration of Infubinol, Ketapril, and Placebo, on the other hand, showed similar response for the first 10 days, after which, promoted significant cell proliferation leading to increase in the mean tumor volume. (Refer: Plot 1).
 
